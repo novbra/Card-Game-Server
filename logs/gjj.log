@@ -1,0 +1,1659 @@
+[2022-09-28 18:18:34] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:18:34] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/system.properties
+[2022-09-28 18:18:34] [INFO] [TcpSocket.TcpSocketSever.initParams:69] - 系统参数配置异常，采用默认配置：D:\Idea_workspace1\Tcp\out\production\Tcp\system.properties (系统找不到指定的文件。)
+java.io.FileNotFoundException: D:\Idea_workspace1\Tcp\out\production\Tcp\system.properties (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at TcpSocket.TcpSocketSever.initParams(TcpSocketSever.java:59)
+	at TcpSocket.TcpSocketSever.<clinit>(TcpSocketSever.java:50)
+[2022-09-28 18:19:57] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:19:57] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/system.properties
+[2022-09-28 18:19:57] [INFO] [TcpSocket.TcpSocketSever.initParams:69] - 系统参数配置异常，采用默认配置：D:\Idea_workspace1\Tcp\out\production\Tcp\system.properties (系统找不到指定的文件。)
+java.io.FileNotFoundException: D:\Idea_workspace1\Tcp\out\production\Tcp\system.properties (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at TcpSocket.TcpSocketSever.initParams(TcpSocketSever.java:59)
+	at TcpSocket.TcpSocketSever.<clinit>(TcpSocketSever.java:50)
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:65] - PORT:6666
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:67] - txt_noticeBoard:公告文本
+[2022-09-28 18:20:36] [INFO] [TcpSocket.TcpSocketSever.initParams:79] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:65] - PORT:6666
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:67] - txt_noticeBoard:公告文本
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.initParams:78] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:94] - connected successfully to MySQL Databases
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP Sever start...
+[2022-09-28 18:37:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:101] - TCP start listening
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:56] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - PORT:6666
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:65] - txt_noticeBoard:公告文本
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:76] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - ——————————————————————————————【Gamer参数配置信息】——————————————————————————————
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:47] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/gamer.properties
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:56] - DISCARD_RESTORE_AMOUNT_ENERGY:2
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - MAX_CARD_AMOUNT:5
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - MAX_HP:100
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:59] - MAX_ENERGY:20
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:60] - SHIELD:0
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.initParams:72] - ——————————————————————————————（Gamer配置结束）——————————————————————————————
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:92] - connected to MySQL Databases successfully
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:96] - TCP Sever start...
+[2022-09-28 18:44:02] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:99] - TCP start listening...
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:56] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - PORT:6666
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:65] - txt_noticeBoard:公告文本
+[2022-09-28 18:44:35] [INFO] [TcpSocket.TcpSocketSever.initParams:76] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 18:44:36] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:92] - connected to MySQL Databases successfully
+[2022-09-28 18:44:36] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:96] - TCP Sever start...
+[2022-09-28 18:44:36] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:99] - TCP start listening...
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:56] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - PORT:6666
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:65] - txt_noticeBoard:公告文本
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:76] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:48] - ——————————————————————————————【Gamer参数配置信息】——————————————————————————————
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:49] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/gamer.properties
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:58] - DISCARD_RESTORE_AMOUNT_ENERGY:2
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:59] - MAX_CARD_AMOUNT:5
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:60] - MAX_HP:100
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:61] - MAX_ENERGY:20
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - SHIELD:0
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.initParams:74] - ——————————————————————————————（Gamer配置结束）——————————————————————————————
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:92] - connected to MySQL Databases successfully
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:96] - TCP Sever start...
+[2022-09-28 18:45:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:99] - TCP start listening...
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-1
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:33:36] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:33:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:33:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:33:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:55:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:56:36] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:56:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:56:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:56:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:57:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 19:58:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 20:07:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:/D:/Idea_workspace1/Tcp/out/production/Tcp/server.properties
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:62] - PORT:6666
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:63] - CLIENT_VERSION:1.0.1 build-2
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:64] - txt_noticeBoard:公告文本
+[2022-09-28 20:08:52] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-09-28 20:08:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:91] - connected to MySQL Databases successfully
+[2022-09-28 20:08:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:95] - TCP Sever start...
+[2022-09-28 20:08:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:98] - TCP start listening...
+[2022-09-28 20:20:18] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-09-28 20:20:18] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - SYSPROPFILE:D:\Idea_workspace1\Tcp\server.properties
+[2022-09-28 20:20:18] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - 系统参数配置异常，采用默认配置：D:\Idea_workspace1\Tcp\server.properties (系统找不到指定的文件。)
+java.io.FileNotFoundException: D:\Idea_workspace1\Tcp\server.properties (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at TcpSocket.TcpSocketSever.initParams(TcpSocketSever.java:56)
+	at TcpSocket.TcpSocketSever.<clinit>(TcpSocketSever.java:47)
+[2022-09-28 20:20:18] [INFO] [TcpSocket.TcpSocketSever.initParams:75] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.initParams:57] - 系统参数配置异常，采用默认配置：D:\Idea_workspace1\Tcp\properties\server.properties (系统找不到指定的路径。)
+java.io.FileNotFoundException: D:\Idea_workspace1\Tcp\properties\server.properties (系统找不到指定的路径。)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at TcpSocket.TcpSocketSever.initParams(TcpSocketSever.java:47)
+	at TcpSocket.TcpSocketSever.<clinit>(TcpSocketSever.java:38)
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 11:37:25] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 11:39:17] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 11:39:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 11:39:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 11:39:18] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 11:44:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 11:49:18] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 11:49:40] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-01 11:55:51] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-01 11:55:59] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 11:56:08] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 11:56:14] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 11:59:17] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-01 11:59:24] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:00:05] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:00:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:00:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:00:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:00:11] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:01:25] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:01:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:01:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:01:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:01:33] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:02:58] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:02:59] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:02:59] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:02:59] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:03:03] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:04:06] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:04:07] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:07:20] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 12:07:20] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:08:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:08:09] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:08:13] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-01 12:09:50] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 12:09:50] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:11:27] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:11:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:11:33] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:11:39] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-01 12:12:39] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 12:12:41] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 12:16:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-01 12:16:09] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-01 12:16:18] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-01 12:18:57] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-01 12:19:00] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-01 22:07:12] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 00:51:00] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 00:51:01] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 00:51:01] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 00:51:01] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:17:52] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:17:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:17:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:17:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:20:07] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:22:34] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:22:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:22:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:22:35] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:22:42] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:24:21] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 01:24:28] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:27:06] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:27:07] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:27:07] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:27:07] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:27:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:28:53] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 01:28:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:29:14] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:29:15] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:29:15] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:29:15] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:31:25] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:31:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:31:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:31:26] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:32:04] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:33:10] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:33:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:33:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:33:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:33:17] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:35:31] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:35:32] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:35:32] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:35:32] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:35:44] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:37:36] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:37:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:37:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:37:37] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:37:44] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:38:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:43:20] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:43:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:43:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:43:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:43:28] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:48:40] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 01:48:43] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:48:46] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:48:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:48:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:48:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:48:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:52:45] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:52:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:52:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:52:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:52:47] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 01:53:49] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 01:53:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 01:59:15] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 01:59:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 01:59:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 01:59:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 01:59:23] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:00:37] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:00:39] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 02:00:49] [INFO] [TcpSocket.TcpSocketSever.login:198] - 36 发生挤线
+[2022-11-02 02:00:51] [INFO] [TcpSocket.TcpSocketSever.login:198] - 36 发生挤线
+[2022-11-02 02:00:52] [INFO] [TcpSocket.TcpSocketSever.login:198] - 36 发生挤线
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:00:59] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:01:00] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:01:00] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:01:00] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:01:03] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:01:19] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:27] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:31] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:32] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:34] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:35] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:37] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:38] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:50] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:01:56] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:01:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:01:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:01:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:02:06] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:02:12] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:02:15] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:05:29] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:05:35] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 02:05:39] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:10:32] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 02:10:34] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 02:10:39] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:10:41] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:14:09] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:14:10] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:14:10] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:14:10] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:14:13] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:15:10] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:15:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:15:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:15:11] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:15:13] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:22:19] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:22:20] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:22:20] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:22:20] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:22:24] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:23:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:23:17] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:23:17] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:23:22] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:23:28] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:23:32] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:28:22] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:28:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:28:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:28:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:28:35] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:28:49] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:29:55] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:29:59] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:30:03] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:30:06] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:30:23] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:30:26] [INFO] [TcpSocket.TcpSocketSever.login:185] - 36 登录成功
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:33:50] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:33:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:33:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:33:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:34:00] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:38:18] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:38:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:38:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:39:14] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:39:17] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:42:56] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:42:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:42:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:42:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:43:00] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:43:32] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:43:34] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 02:43:54] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 02:43:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 02:46:41] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 02:46:44] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 02:46:48] [INFO] [TcpSocket.TcpSocketSever.enter:546] - 36创建房间10000
+[2022-11-02 02:50:01] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 02:51:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 11:59:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:02:02] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:02:03] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 12:02:05] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 12:02:32] [INFO] [TcpSocket.TcpSocketSever.login:185] - 35 登录成功
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:04:44] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:04:45] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:04:45] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:04:45] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:04:50] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:09:23] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 12:09:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 12:12:14] [INFO] [TcpSocket.TcpSocketSever.enter:546] - 35创建房间10000
+[2022-11-02 12:13:06] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 12:13:13] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 12:13:22] [INFO] [TcpSocket.TcpSocketSever.enter:546] - 35创建房间10001
+[2022-11-02 12:14:29] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 12:14:35] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 12:14:40] [INFO] [TcpSocket.TcpSocketSever.enter:546] - 35创建房间10002
+[2022-11-02 12:20:44] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:28:41] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:28:42] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:28:42] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:28:42] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:29:06] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:29:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:29:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:29:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:32:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:32:46] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:32:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:32:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:32:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:32:56] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:33:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:34:42] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 12:34:47] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 12:35:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 12:36:17] [INFO] [TcpSocket.TcpSocketSever.enter:548] - 35创建房间10000
+[2022-11-02 12:36:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 12:37:25] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 12:37:26] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 12:37:47] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 12:37:48] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 12:38:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:39:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:40:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:41:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:42:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:43:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:44:48] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:45:48] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:45:51] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:45:51] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 12:45:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 12:46:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 12:47:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:48:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:48:21] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:49:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:50:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:51:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 12:52:23] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 12:52:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 12:52:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 12:52:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 12:52:27] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 12:53:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:54:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:55:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 12:55:28] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 12:55:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 12:55:59] [WARN] [TcpSocket.TcpSocketSever.msgCmd:226] - msgRoom:房间为null
+[2022-11-02 12:56:00] [WARN] [TcpSocket.TcpSocketSever.msgCmd:226] - msgRoom:房间为null
+[2022-11-02 12:56:32] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 12:57:04] [INFO] [TcpSocket.TcpSocketSever.enter:548] - 35创建房间10000
+[2022-11-02 12:57:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 13:03:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 13:03:12] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 13:03:12] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 13:03:14] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 13:03:22] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 13:03:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 13:03:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 13:03:23] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 13:03:28] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 13:03:35] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 13:03:41] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 13:03:45] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 13:04:05] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 13:04:08] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 13:04:24] [WARN] [TcpSocket.TcpSocketSever.msgCmd:230] - msgRoom:房间为null
+[2022-11-02 13:05:08] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 13:05:12] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 15:25:21] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 15:25:40] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 15:26:21] [INFO] [TcpSocket.TcpSocketSever.login:232] - 35(15888729470)登陆失败:账号不存在或密码错误
+[2022-11-02 15:26:33] [INFO] [TcpSocket.TcpSocketSever.login:185] - 35 登录成功
+[2022-11-02 15:26:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:27:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:28:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:29:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:30:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:31:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:32:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:33:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:34:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:35:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:36:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:37:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:38:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:39:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:40:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:41:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:42:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:43:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:44:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:45:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:46:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:47:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:48:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:49:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:50:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:51:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:52:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:53:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:54:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:55:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:56:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:57:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:58:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 15:59:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:00:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:01:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:02:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:03:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:04:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:05:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:06:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:07:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:08:13] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 16:08:13] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 16:08:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:09:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:10:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:11:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:12:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:13:17] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 16:13:36] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 16:13:56] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 16:13:57] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 16:14:14] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-02 16:14:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 4 has linked
+[2022-11-02 16:14:16] [INFO] [TcpSocket.TcpSocketSever.run:45] - 4 has been off line
+[2022-11-02 16:14:22] [INFO] [TcpSocket.TcpSocketSever.run:151] - 5 has linked
+[2022-11-02 16:15:22] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 5's heart is beating
+[2022-11-02 16:16:11] [INFO] [TcpSocket.TcpSocketSever.run:45] - 5 has been off line
+[2022-11-02 16:16:18] [INFO] [TcpSocket.TcpSocketSever.run:151] - 6 has linked
+[2022-11-02 16:16:20] [INFO] [TcpSocket.TcpSocketSever.run:45] - 6 has been off line
+[2022-11-02 16:16:24] [INFO] [TcpSocket.TcpSocketSever.run:151] - 7 has linked
+[2022-11-02 16:16:48] [INFO] [TcpSocket.TcpSocketSever.run:45] - 7 has been off line
+[2022-11-02 16:16:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 8 has linked
+[2022-11-02 16:17:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 8's heart is beating
+[2022-11-02 16:18:17] [INFO] [TcpSocket.TcpSocketSever.run:45] - 8 has been off line
+[2022-11-02 16:18:24] [INFO] [TcpSocket.TcpSocketSever.run:151] - 9 has linked
+[2022-11-02 16:19:24] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 9's heart is beating
+[2022-11-02 16:20:24] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 9's heart is beating
+[2022-11-02 16:20:42] [INFO] [TcpSocket.TcpSocketSever.run:45] - 9 has been off line
+[2022-11-02 16:20:49] [INFO] [TcpSocket.TcpSocketSever.run:151] - 10 has linked
+[2022-11-02 16:21:37] [INFO] [TcpSocket.TcpSocketSever.run:45] - 10 has been off line
+[2022-11-02 16:21:41] [INFO] [TcpSocket.TcpSocketSever.run:151] - 11 has linked
+[2022-11-02 16:22:26] [INFO] [TcpSocket.TcpSocketSever.run:45] - 11 has been off line
+[2022-11-02 16:22:32] [INFO] [TcpSocket.TcpSocketSever.run:151] - 12 has linked
+[2022-11-02 16:23:32] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 12's heart is beating
+[2022-11-02 16:24:21] [INFO] [TcpSocket.TcpSocketSever.run:45] - 12 has been off line
+[2022-11-02 16:24:23] [INFO] [TcpSocket.TcpSocketSever.run:151] - 13 has linked
+[2022-11-02 16:25:23] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:26:23] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:27:23] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:28:23] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:29:24] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:30:23] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 13's heart is beating
+[2022-11-02 16:31:00] [INFO] [TcpSocket.TcpSocketSever.run:45] - 13 has been off line
+[2022-11-02 16:31:04] [INFO] [TcpSocket.TcpSocketSever.run:151] - 14 has linked
+[2022-11-02 16:31:23] [INFO] [TcpSocket.TcpSocketSever.run:45] - 14 has been off line
+[2022-11-02 16:31:26] [INFO] [TcpSocket.TcpSocketSever.run:151] - 15 has linked
+[2022-11-02 16:31:26] [INFO] [TcpSocket.TcpSocketSever.run:45] - 15 has been off line
+[2022-11-02 16:31:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 16 has linked
+[2022-11-02 16:32:01] [INFO] [TcpSocket.TcpSocketSever.run:45] - 16 has been off line
+[2022-11-02 16:32:04] [INFO] [TcpSocket.TcpSocketSever.run:151] - 17 has linked
+[2022-11-02 16:33:04] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 17's heart is beating
+[2022-11-02 16:34:04] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 17's heart is beating
+[2022-11-02 16:34:16] [INFO] [TcpSocket.TcpSocketSever.run:45] - 17 has been off line
+[2022-11-02 16:34:19] [INFO] [TcpSocket.TcpSocketSever.run:151] - 18 has linked
+[2022-11-02 16:35:09] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 16:35:11] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 16:35:13] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 16:35:19] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 16:35:27] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 16:35:28] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 16:35:39] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 16:35:43] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 16:36:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:37:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:38:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:39:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 16:40:24] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 16:40:27] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 16:41:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:42:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:43:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:44:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:45:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:46:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:47:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:48:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:49:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:50:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:51:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:52:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:53:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:54:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:55:27] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 16:56:10] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 16:56:17] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 16:57:12] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 16:57:16] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 16:58:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 16:59:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:00:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:01:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:02:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:03:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:04:16] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 17:04:32] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-02 17:04:37] [INFO] [TcpSocket.TcpSocketSever.run:151] - 4 has linked
+[2022-11-02 17:05:37] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 17:06:37] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 17:06:41] [INFO] [TcpSocket.TcpSocketSever.run:45] - 4 has been off line
+[2022-11-02 17:06:44] [INFO] [TcpSocket.TcpSocketSever.run:151] - 5 has linked
+[2022-11-02 17:07:38] [INFO] [TcpSocket.TcpSocketSever.run:45] - 5 has been off line
+[2022-11-02 17:07:40] [INFO] [TcpSocket.TcpSocketSever.run:151] - 6 has linked
+[2022-11-02 17:08:17] [INFO] [TcpSocket.TcpSocketSever.run:45] - 6 has been off line
+[2022-11-02 17:08:21] [INFO] [TcpSocket.TcpSocketSever.run:151] - 7 has linked
+[2022-11-02 17:08:54] [INFO] [TcpSocket.TcpSocketSever.run:45] - 7 has been off line
+[2022-11-02 17:08:57] [INFO] [TcpSocket.TcpSocketSever.run:151] - 8 has linked
+[2022-11-02 17:09:57] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 8's heart is beating
+[2022-11-02 17:10:05] [INFO] [TcpSocket.TcpSocketSever.run:45] - 8 has been off line
+[2022-11-02 17:10:07] [INFO] [TcpSocket.TcpSocketSever.run:151] - 9 has linked
+[2022-11-02 17:11:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 9's heart is beating
+[2022-11-02 17:12:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 9's heart is beating
+[2022-11-02 17:12:37] [INFO] [TcpSocket.TcpSocketSever.run:45] - 9 has been off line
+[2022-11-02 17:12:41] [INFO] [TcpSocket.TcpSocketSever.run:151] - 10 has linked
+[2022-11-02 17:13:41] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 10's heart is beating
+[2022-11-02 17:14:41] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 10's heart is beating
+[2022-11-02 17:14:49] [INFO] [TcpSocket.TcpSocketSever.run:45] - 10 has been off line
+[2022-11-02 17:14:53] [INFO] [TcpSocket.TcpSocketSever.run:151] - 11 has linked
+[2022-11-02 17:15:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:16:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:17:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:18:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:19:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:20:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:21:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:22:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-02 17:23:10] [INFO] [TcpSocket.TcpSocketSever.run:45] - 11 has been off line
+[2022-11-02 17:23:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 12 has linked
+[2022-11-02 17:24:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 12's heart is beating
+[2022-11-02 17:24:59] [INFO] [TcpSocket.TcpSocketSever.run:45] - 12 has been off line
+[2022-11-02 17:25:03] [INFO] [TcpSocket.TcpSocketSever.run:151] - 13 has linked
+[2022-11-02 17:25:44] [INFO] [TcpSocket.TcpSocketSever.run:45] - 13 has been off line
+[2022-11-02 17:25:46] [INFO] [TcpSocket.TcpSocketSever.run:151] - 14 has linked
+[2022-11-02 17:26:12] [INFO] [TcpSocket.TcpSocketSever.run:45] - 14 has been off line
+[2022-11-02 17:26:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 15 has linked
+[2022-11-02 17:27:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 15's heart is beating
+[2022-11-02 17:28:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 15's heart is beating
+[2022-11-02 17:29:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 15's heart is beating
+[2022-11-02 17:29:22] [INFO] [TcpSocket.TcpSocketSever.run:45] - 15 has been off line
+[2022-11-02 17:29:25] [INFO] [TcpSocket.TcpSocketSever.run:151] - 16 has linked
+[2022-11-02 17:29:26] [INFO] [TcpSocket.TcpSocketSever.run:45] - 16 has been off line
+[2022-11-02 17:29:30] [INFO] [TcpSocket.TcpSocketSever.run:151] - 17 has linked
+[2022-11-02 17:30:08] [INFO] [TcpSocket.TcpSocketSever.run:45] - 17 has been off line
+[2022-11-02 17:30:15] [INFO] [TcpSocket.TcpSocketSever.run:151] - 18 has linked
+[2022-11-02 17:31:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 17:32:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 17:33:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 17:34:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 17:35:15] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 18's heart is beating
+[2022-11-02 17:36:07] [INFO] [TcpSocket.TcpSocketSever.run:45] - 18 has been off line
+[2022-11-02 17:36:10] [INFO] [TcpSocket.TcpSocketSever.run:151] - 19 has linked
+[2022-11-02 17:37:10] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 19's heart is beating
+[2022-11-02 17:38:10] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 19's heart is beating
+[2022-11-02 17:39:10] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 19's heart is beating
+[2022-11-02 17:39:44] [INFO] [TcpSocket.TcpSocketSever.run:45] - 19 has been off line
+[2022-11-02 17:39:47] [INFO] [TcpSocket.TcpSocketSever.run:151] - 20 has linked
+[2022-11-02 17:40:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-02 17:41:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-02 17:42:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-02 17:43:03] [INFO] [TcpSocket.TcpSocketSever.run:45] - 20 has been off line
+[2022-11-02 17:43:04] [INFO] [TcpSocket.TcpSocketSever.run:151] - 21 has linked
+[2022-11-02 17:44:04] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 21's heart is beating
+[2022-11-02 17:45:04] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 21's heart is beating
+[2022-11-02 17:45:20] [INFO] [TcpSocket.TcpSocketSever.run:45] - 21 has been off line
+[2022-11-02 17:48:07] [INFO] [TcpSocket.TcpSocketSever.run:151] - 22 has linked
+[2022-11-02 17:48:11] [INFO] [TcpSocket.TcpSocketSever.run:45] - 22 has been off line
+[2022-11-02 17:48:14] [INFO] [TcpSocket.TcpSocketSever.run:151] - 23 has linked
+[2022-11-02 17:48:18] [INFO] [TcpSocket.TcpSocketSever.run:45] - 23 has been off line
+[2022-11-02 18:39:29] [INFO] [TcpSocket.TcpSocketSever.run:151] - 24 has linked
+[2022-11-02 18:39:29] [INFO] [TcpSocket.TcpSocketSever.run:45] - 24 has been off line
+[2022-11-02 20:29:26] [INFO] [TcpSocket.TcpSocketSever.run:151] - 25 has linked
+[2022-11-02 20:30:26] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 25's heart is beating
+[2022-11-02 20:30:28] [INFO] [TcpSocket.TcpSocketSever.run:45] - 25 has been off line
+[2022-11-02 20:30:35] [INFO] [TcpSocket.TcpSocketSever.run:151] - 26 has linked
+[2022-11-02 20:31:05] [INFO] [TcpSocket.TcpSocketSever.run:45] - 26 has been off line
+[2022-11-02 20:31:11] [INFO] [TcpSocket.TcpSocketSever.run:151] - 27 has linked
+[2022-11-02 20:31:47] [INFO] [TcpSocket.TcpSocketSever.run:45] - 27 has been off line
+[2022-11-02 20:31:51] [INFO] [TcpSocket.TcpSocketSever.run:151] - 28 has linked
+[2022-11-02 20:32:34] [INFO] [TcpSocket.TcpSocketSever.run:45] - 28 has been off line
+[2022-11-02 20:32:43] [INFO] [TcpSocket.TcpSocketSever.run:151] - 29 has linked
+[2022-11-02 20:33:04] [INFO] [TcpSocket.TcpSocketSever.run:45] - 29 has been off line
+[2022-11-02 20:33:07] [INFO] [TcpSocket.TcpSocketSever.run:151] - 30 has linked
+[2022-11-02 20:34:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:35:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:36:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:37:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:38:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:39:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:40:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:41:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:42:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:43:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:44:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:45:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:46:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:47:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:48:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:49:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:50:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:51:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:52:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:53:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:54:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:55:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:56:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:57:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:58:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 20:59:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:00:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:01:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:02:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:03:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:04:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:05:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:06:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:07:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:08:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:09:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:10:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:11:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:12:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:13:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:14:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:15:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:16:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:17:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:18:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:19:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:20:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:21:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:22:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:23:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:24:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:25:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:26:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:27:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:28:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:29:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:30:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:31:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:32:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:33:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:34:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:35:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:36:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:37:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:38:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:39:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:40:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:41:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:42:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:43:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:44:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:45:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:46:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:47:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:48:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:49:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:50:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:51:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:52:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:53:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:54:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:55:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:56:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:57:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:58:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 21:59:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:00:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:01:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:02:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:03:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:04:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:05:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:06:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:07:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:08:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:09:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:10:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:11:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:12:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:13:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:14:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:15:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:16:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:17:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:17:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 31 has linked
+[2022-11-02 22:17:52] [INFO] [TcpSocket.TcpSocketSever.run:45] - 31 has been off line
+[2022-11-02 22:18:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:19:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:20:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:21:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:22:08] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:23:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:24:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:25:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:26:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:27:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:28:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:29:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:30:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:31:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:32:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:33:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:34:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:35:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:36:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:37:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:38:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:39:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:40:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:41:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:42:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:43:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:44:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:45:07] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-02 22:45:39] [INFO] [TcpSocket.TcpSocketSever.run:45] - 30 has been off line
+[2022-11-02 22:45:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 32 has linked
+[2022-11-02 22:46:02] [INFO] [TcpSocket.TcpSocketSever.login:198] - 35 发生挤线
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 22:46:12] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 22:46:13] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 22:46:13] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 22:46:13] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 22:46:39] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 22:46:44] [INFO] [TcpSocket.TcpSocketSever.login:185] - 35 登录成功
+[2022-11-02 22:47:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 22:48:01] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 22:48:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 22:48:47] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 22:48:54] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 22:49:01] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10001
+[2022-11-02 22:49:05] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10001
+[2022-11-02 22:49:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:50:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:51:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:52:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:53:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:54:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:55:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 22:56:32] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 22:56:35] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 22:56:49] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10001
+[2022-11-02 22:56:50] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10001
+[2022-11-02 22:57:35] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 22:58:35] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 22:59:35] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:00:35] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:01:35] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:02:22] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 23:02:25] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 23:03:25] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 23:04:03] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 23:06:37] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 23:06:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 23:06:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 23:06:38] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 23:06:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 23:07:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 23:08:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-02 23:09:49] [INFO] [TcpSocket.TcpSocketSever.enter:552] - 35创建房间10000
+[2022-11-02 23:09:51] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 23:10:02] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 23:10:25] [WARN] [TcpSocket.TcpSocketSever.msgCmd:230] - msgRoom:房间为null
+[2022-11-02 23:11:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:12:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:13:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:14:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:15:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:16:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:17:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:18:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:19:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:20:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:21:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:22:03] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:23:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-02 23:23:46] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-02 23:23:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-02 23:23:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-02 23:23:47] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-02 23:24:03] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-02 23:24:06] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-02 23:24:13] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-02 23:25:13] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:26:13] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:27:13] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-02 23:27:23] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-02 23:27:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-02 23:28:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:29:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:30:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:31:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:32:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:33:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:34:26] [INFO] [TcpSocket.TcpSocketSever.enter:555] - 35创建房间10000
+[2022-11-02 23:34:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:35:31] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-02 23:35:31] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-02 23:35:38] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-02 23:36:38] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 23:37:38] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 23:38:38] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 23:39:38] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-02 23:39:48] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-02 23:39:53] [INFO] [TcpSocket.TcpSocketSever.run:151] - 4 has linked
+[2022-11-02 23:40:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:41:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:42:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:43:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:44:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:45:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:46:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:47:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:48:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:49:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:50:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:51:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:52:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:53:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:54:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:55:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:56:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:57:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:58:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-02 23:59:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-03 00:00:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-03 00:01:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-03 00:02:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-03 00:03:53] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 4's heart is beating
+[2022-11-03 00:04:24] [INFO] [TcpSocket.TcpSocketSever.run:45] - 4 has been off line
+[2022-11-03 00:04:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 5 has linked
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:04:52] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:04:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:04:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:04:53] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:04:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:05:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:05:59] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 00:06:06] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 00:06:16] [INFO] [TcpSocket.TcpSocketSever.enter:555] - 35创建房间10000
+[2022-11-03 00:07:06] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 00:08:06] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 00:08:58] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-03 00:09:05] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-03 00:10:05] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-03 00:10:34] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-03 00:10:39] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-03 00:11:39] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 00:12:39] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 00:13:39] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 00:13:48] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-03 00:14:08] [INFO] [TcpSocket.TcpSocketSever.run:151] - 4 has linked
+[2022-11-03 00:14:11] [INFO] [TcpSocket.TcpSocketSever.run:45] - 4 has been off line
+[2022-11-03 00:15:08] [INFO] [TcpSocket.TcpSocketSever.run:151] - 5 has linked
+[2022-11-03 00:15:09] [INFO] [TcpSocket.TcpSocketSever.run:45] - 5 has been off line
+[2022-11-03 00:15:14] [INFO] [TcpSocket.TcpSocketSever.run:151] - 6 has linked
+[2022-11-03 00:16:14] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 6's heart is beating
+[2022-11-03 00:16:19] [INFO] [TcpSocket.TcpSocketSever.enter:555] - 35创建房间10000
+[2022-11-03 00:16:22] [INFO] [TcpSocket.TcpSocketSever.enter:555] - 35创建房间10000
+[2022-11-03 00:17:14] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 6's heart is beating
+[2022-11-03 00:18:14] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 6's heart is beating
+[2022-11-03 00:19:14] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 6's heart is beating
+[2022-11-03 00:20:14] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 6's heart is beating
+[2022-11-03 00:21:07] [INFO] [TcpSocket.TcpSocketSever.run:45] - 6 has been off line
+[2022-11-03 00:21:10] [INFO] [TcpSocket.TcpSocketSever.run:151] - 7 has linked
+[2022-11-03 00:21:52] [INFO] [TcpSocket.TcpSocketSever.run:45] - 7 has been off line
+[2022-11-03 00:21:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 8 has linked
+[2022-11-03 00:22:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 8's heart is beating
+[2022-11-03 00:23:21] [INFO] [TcpSocket.TcpSocketSever.run:45] - 8 has been off line
+[2022-11-03 00:23:27] [INFO] [TcpSocket.TcpSocketSever.run:151] - 9 has linked
+[2022-11-03 00:24:19] [INFO] [TcpSocket.TcpSocketSever.run:45] - 9 has been off line
+[2022-11-03 00:24:25] [INFO] [TcpSocket.TcpSocketSever.run:151] - 10 has linked
+[2022-11-03 00:25:25] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 10's heart is beating
+[2022-11-03 00:25:53] [INFO] [TcpSocket.TcpSocketSever.run:45] - 10 has been off line
+[2022-11-03 00:25:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 11 has linked
+[2022-11-03 00:26:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:27:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:28:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:29:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:30:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:31:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:32:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:33:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:34:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:35:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 11's heart is beating
+[2022-11-03 00:36:14] [INFO] [TcpSocket.TcpSocketSever.run:45] - 11 has been off line
+[2022-11-03 00:36:21] [INFO] [TcpSocket.TcpSocketSever.run:151] - 12 has linked
+[2022-11-03 00:37:07] [INFO] [TcpSocket.TcpSocketSever.run:45] - 12 has been off line
+[2022-11-03 00:37:12] [INFO] [TcpSocket.TcpSocketSever.run:151] - 13 has linked
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:37:48] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:37:49] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:37:49] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:37:49] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:37:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:38:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:39:52] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:40:51] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:40:52] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:40:52] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:40:52] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:40:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:40:56] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 00:40:57] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:41:50] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:41:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:41:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:41:51] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:41:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:42:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:43:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:44:56] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:44:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:44:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:44:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:44:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:45:02] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 00:45:02] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:45:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:45:21] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:46:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:47:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:48:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:49:21] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:49:56] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:49:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:49:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:49:57] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:50:00] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:51:00] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:51:41] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 00:51:47] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 00:52:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 00:53:47] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 00:54:25] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-03 00:54:28] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-03 00:55:28] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-03 00:56:28] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 2's heart is beating
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:57:21] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:57:22] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:57:22] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:57:22] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:57:26] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:58:26] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 00:59:23] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 00:59:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 00:59:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 00:59:24] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 00:59:26] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 00:59:27] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 00:59:28] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 01:00:28] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 01:01:03] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 01:01:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 01:01:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 01:01:04] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 01:01:09] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 01:02:09] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 01:03:09] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 01:04:09] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 01:05:04] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 01:05:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 01:05:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 01:05:05] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 01:05:09] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 01:06:15] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 01:06:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 01:06:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 01:06:16] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-03 01:06:30] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-03 01:06:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-03 01:06:33] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-03 01:06:34] [INFO] [TcpSocket.TcpSocketSever.run:151] - 1 has linked
+[2022-11-03 01:07:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:08:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:09:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:10:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:11:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:12:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:13:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:14:34] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 1's heart is beating
+[2022-11-03 01:14:35] [INFO] [TcpSocket.TcpSocketSever.run:45] - 1 has been off line
+[2022-11-03 01:14:40] [INFO] [TcpSocket.TcpSocketSever.run:151] - 2 has linked
+[2022-11-03 01:14:55] [INFO] [TcpSocket.TcpSocketSever.run:45] - 2 has been off line
+[2022-11-03 01:14:55] [INFO] [TcpSocket.TcpSocketSever.run:151] - 3 has linked
+[2022-11-03 01:15:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:16:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:17:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:18:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:19:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:20:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:21:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:22:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:23:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:24:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:25:55] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 3's heart is beating
+[2022-11-03 01:26:29] [INFO] [TcpSocket.TcpSocketSever.run:45] - 3 has been off line
+[2022-11-03 01:26:36] [INFO] [TcpSocket.TcpSocketSever.run:151] - 4 has linked
+[2022-11-03 01:26:39] [INFO] [TcpSocket.TcpSocketSever.run:45] - 4 has been off line
+[2022-11-03 01:33:06] [INFO] [TcpSocket.TcpSocketSever.run:151] - 5 has linked
+[2022-11-03 01:33:08] [INFO] [TcpSocket.TcpSocketSever.run:45] - 5 has been off line
+[2022-11-03 01:34:11] [INFO] [TcpSocket.TcpSocketSever.run:151] - 6 has linked
+[2022-11-03 01:34:13] [INFO] [TcpSocket.TcpSocketSever.run:45] - 6 has been off line
+[2022-11-03 01:34:34] [INFO] [TcpSocket.TcpSocketSever.run:151] - 7 has linked
+[2022-11-03 01:34:40] [INFO] [TcpSocket.TcpSocketSever.run:45] - 7 has been off line
+[2022-11-03 01:34:41] [INFO] [TcpSocket.TcpSocketSever.run:151] - 8 has linked
+[2022-11-03 01:35:13] [INFO] [TcpSocket.TcpSocketSever.run:45] - 8 has been off line
+[2022-11-03 01:35:20] [INFO] [TcpSocket.TcpSocketSever.run:151] - 9 has linked
+[2022-11-03 01:35:37] [INFO] [TcpSocket.TcpSocketSever.run:45] - 9 has been off line
+[2022-11-03 01:35:43] [INFO] [TcpSocket.TcpSocketSever.run:151] - 10 has linked
+[2022-11-03 01:36:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 10's heart is beating
+[2022-11-03 01:37:43] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 10's heart is beating
+[2022-11-03 01:38:42] [INFO] [TcpSocket.TcpSocketSever.run:45] - 10 has been off line
+[2022-11-03 01:38:49] [INFO] [TcpSocket.TcpSocketSever.run:151] - 11 has linked
+[2022-11-03 01:38:53] [INFO] [TcpSocket.TcpSocketSever.run:45] - 11 has been off line
+[2022-11-03 01:38:54] [INFO] [TcpSocket.TcpSocketSever.run:151] - 12 has linked
+[2022-11-03 01:39:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 12's heart is beating
+[2022-11-03 01:40:54] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 12's heart is beating
+[2022-11-03 01:41:47] [INFO] [TcpSocket.TcpSocketSever.run:45] - 12 has been off line
+[2022-11-03 01:41:53] [INFO] [TcpSocket.TcpSocketSever.run:151] - 13 has linked
+[2022-11-03 01:42:04] [INFO] [TcpSocket.TcpSocketSever.run:45] - 13 has been off line
+[2022-11-03 01:42:05] [INFO] [TcpSocket.TcpSocketSever.run:151] - 14 has linked
+[2022-11-03 01:42:49] [INFO] [TcpSocket.TcpSocketSever.run:45] - 14 has been off line
+[2022-11-03 01:42:52] [INFO] [TcpSocket.TcpSocketSever.run:151] - 15 has linked
+[2022-11-03 01:43:00] [INFO] [TcpSocket.TcpSocketSever.run:45] - 15 has been off line
+[2022-11-03 01:43:00] [INFO] [TcpSocket.TcpSocketSever.run:151] - 16 has linked
+[2022-11-03 01:44:00] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 16's heart is beating
+[2022-11-03 01:44:18] [INFO] [TcpSocket.TcpSocketSever.run:45] - 16 has been off line
+[2022-11-03 01:44:25] [INFO] [TcpSocket.TcpSocketSever.run:151] - 17 has linked
+[2022-11-03 01:44:32] [INFO] [TcpSocket.TcpSocketSever.run:45] - 17 has been off line
+[2022-11-03 01:44:33] [INFO] [TcpSocket.TcpSocketSever.run:151] - 18 has linked
+[2022-11-03 01:45:28] [INFO] [TcpSocket.TcpSocketSever.run:45] - 18 has been off line
+[2022-11-03 01:45:31] [INFO] [TcpSocket.TcpSocketSever.run:151] - 19 has linked
+[2022-11-03 01:45:42] [INFO] [TcpSocket.TcpSocketSever.run:45] - 19 has been off line
+[2022-11-03 01:45:42] [INFO] [TcpSocket.TcpSocketSever.run:151] - 20 has linked
+[2022-11-03 01:46:42] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-03 01:47:42] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-03 01:48:42] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 20's heart is beating
+[2022-11-03 01:49:33] [INFO] [TcpSocket.TcpSocketSever.run:45] - 20 has been off line
+[2022-11-03 01:49:37] [INFO] [TcpSocket.TcpSocketSever.run:151] - 21 has linked
+[2022-11-03 01:50:37] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 21's heart is beating
+[2022-11-03 01:51:37] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 21's heart is beating
+[2022-11-03 01:52:17] [INFO] [TcpSocket.TcpSocketSever.run:45] - 21 has been off line
+[2022-11-03 01:52:21] [INFO] [TcpSocket.TcpSocketSever.run:151] - 22 has linked
+[2022-11-03 01:52:23] [INFO] [TcpSocket.TcpSocketSever.run:45] - 22 has been off line
+[2022-11-03 01:52:51] [INFO] [TcpSocket.TcpSocketSever.run:151] - 23 has linked
+[2022-11-03 01:53:51] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 23's heart is beating
+[2022-11-03 01:54:51] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 23's heart is beating
+[2022-11-03 01:55:51] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 23's heart is beating
+[2022-11-03 01:56:51] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 23's heart is beating
+[2022-11-03 01:57:51] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 23's heart is beating
+[2022-11-03 01:58:31] [INFO] [TcpSocket.TcpSocketSever.run:45] - 23 has been off line
+[2022-11-03 01:58:33] [INFO] [TcpSocket.TcpSocketSever.run:151] - 24 has linked
+[2022-11-03 01:59:33] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 24's heart is beating
+[2022-11-03 02:00:05] [INFO] [TcpSocket.TcpSocketSever.run:45] - 24 has been off line
+[2022-11-03 02:00:09] [INFO] [TcpSocket.TcpSocketSever.run:151] - 25 has linked
+[2022-11-03 02:00:34] [INFO] [TcpSocket.TcpSocketSever.run:45] - 25 has been off line
+[2022-11-03 02:00:38] [INFO] [TcpSocket.TcpSocketSever.run:151] - 26 has linked
+[2022-11-03 02:01:38] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 26's heart is beating
+[2022-11-03 02:02:10] [INFO] [TcpSocket.TcpSocketSever.run:45] - 26 has been off line
+[2022-11-03 02:02:17] [INFO] [TcpSocket.TcpSocketSever.run:151] - 27 has linked
+[2022-11-03 02:03:09] [INFO] [TcpSocket.TcpSocketSever.run:45] - 27 has been off line
+[2022-11-03 02:03:12] [INFO] [TcpSocket.TcpSocketSever.run:151] - 28 has linked
+[2022-11-03 02:03:52] [INFO] [TcpSocket.TcpSocketSever.run:45] - 28 has been off line
+[2022-11-03 02:03:58] [INFO] [TcpSocket.TcpSocketSever.run:151] - 29 has linked
+[2022-11-03 02:04:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 29's heart is beating
+[2022-11-03 02:05:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 29's heart is beating
+[2022-11-03 02:06:58] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 29's heart is beating
+[2022-11-03 02:07:18] [INFO] [TcpSocket.TcpSocketSever.run:45] - 29 has been off line
+[2022-11-03 02:07:24] [INFO] [TcpSocket.TcpSocketSever.run:151] - 30 has linked
+[2022-11-03 02:08:24] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-03 02:09:24] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 30's heart is beating
+[2022-11-03 02:09:37] [INFO] [TcpSocket.TcpSocketSever.run:45] - 30 has been off line
+[2022-11-03 02:09:39] [INFO] [TcpSocket.TcpSocketSever.run:151] - 31 has linked
+[2022-11-03 02:10:39] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 31's heart is beating
+[2022-11-03 02:11:39] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 31's heart is beating
+[2022-11-03 02:11:40] [INFO] [TcpSocket.TcpSocketSever.run:45] - 31 has been off line
+[2022-11-03 02:11:42] [INFO] [TcpSocket.TcpSocketSever.run:151] - 32 has linked
+[2022-11-03 02:12:42] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 32's heart is beating
+[2022-11-03 02:12:50] [INFO] [TcpSocket.TcpSocketSever.run:45] - 32 has been off line
+[2022-11-03 02:19:45] [INFO] [TcpSocket.TcpSocketSever.run:151] - 33 has linked
+[2022-11-03 02:20:31] [INFO] [TcpSocket.TcpSocketSever.run:45] - 33 has been off line
+[2022-11-03 02:20:34] [INFO] [TcpSocket.TcpSocketSever.run:151] - 34 has linked
+[2022-11-03 02:20:57] [INFO] [TcpSocket.TcpSocketSever.run:45] - 34 has been off line
+[2022-11-03 02:20:59] [INFO] [TcpSocket.TcpSocketSever.run:151] - 35 has linked
+[2022-11-03 02:21:45] [INFO] [TcpSocket.TcpSocketSever.run:45] - 35 has been off line
+[2022-11-03 02:21:48] [INFO] [TcpSocket.TcpSocketSever.run:151] - 36 has linked
+[2022-11-03 02:22:02] [INFO] [TcpSocket.TcpSocketSever.run:45] - 36 has been off line
+[2022-11-03 02:22:02] [INFO] [TcpSocket.TcpSocketSever.run:151] - 37 has linked
+[2022-11-03 02:23:02] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 37's heart is beating
+[2022-11-03 02:23:38] [INFO] [TcpSocket.TcpSocketSever.run:45] - 37 has been off line
+[2022-11-03 02:23:40] [INFO] [TcpSocket.TcpSocketSever.run:151] - 38 has linked
+[2022-11-03 02:24:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 38's heart is beating
+[2022-11-03 02:25:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 38's heart is beating
+[2022-11-03 02:26:40] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 38's heart is beating
+[2022-11-03 02:27:09] [INFO] [TcpSocket.TcpSocketSever.run:45] - 38 has been off line
+[2022-11-03 02:27:12] [INFO] [TcpSocket.TcpSocketSever.run:151] - 39 has linked
+[2022-11-03 02:28:00] [INFO] [TcpSocket.TcpSocketSever.run:45] - 39 has been off line
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-05 01:47:08] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-05 01:47:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-05 01:47:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-05 01:47:09] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...
+[2022-11-05 01:48:33] [INFO] [TcpSocket.TcpSocketSever.run:151] - 0 has linked
+[2022-11-05 01:48:41] [INFO] [TcpSocket.TcpSocketSever.login:185] - 35 登录成功
+[2022-11-05 01:48:47] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:48] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:49] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:49] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:50] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:51] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:52] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:52] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:53] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:54] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:54] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:55] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:55] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:57] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:58] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:48:59] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:00] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:01] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:02] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:03] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:06] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:17] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:19] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:20] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:21] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:21] [INFO] [TcpSocket.TcpSocketSever.enter:554] - 35创建房间10000
+[2022-11-05 01:49:33] [INFO] [TcpSocket.TcpSocketSever.handle:104] - 0's heart is beating
+[2022-11-05 01:50:12] [INFO] [TcpSocket.TcpSocketSever.run:45] - 0 has been off line
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:45] - ——————————————————————————————【TCP服务器参数配置信息】——————————————————————————————
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:46] - SYSPROPFILE:D:\Idea_workspace1\Tcp\properties\server.properties
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:53] - PORT:6666
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:54] - CLIENT_VERSION:2.0.3
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:55] - txt_noticeBoard:公告文本
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.initParams:66] - ——————————————————————————————（TCP服务器配置结束）——————————————————————————————
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:78] - connected to MySQL Databases successfully
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:84] - TCP Sever start...
+[2022-11-12 18:43:46] [INFO] [TcpSocket.TcpSocketSever.startTCPServer:87] - TCP start listening...

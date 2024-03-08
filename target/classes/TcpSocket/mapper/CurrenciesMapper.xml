@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--
+    namespace:名称空间
+-->
+<mapper namespace="TcpSocket.mapper.CurrenciesMapper">
+<!--    需要sql语句查询的字段名与实体的属性名一一对应-->
+<!--    在mybatis-config设置过别名，所以不用带包名-->
+    <select id="selectAll" resultType="Currencies">
+        select * from currencies;
+    </select>
+
+</mapper>

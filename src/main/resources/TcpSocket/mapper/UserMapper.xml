@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="TcpSocket.mapper.UserMapper">
+<!--    你会发现数据库表的字段名称与实体类的名称不一样则不能自动封装数据，需要手动设置
+        1.SQL查询字段名称起别名,让别名和实体类的属性名一样
+            *缺点 每次定义都要起别名
+                *sql片段
+                    *缺点：不灵活
+        2.resultMap
+-->
+<!--    <sql id="user_column">-->
+<!--        id,phone_number as phoneNumber-->
+<!--             , password_md5 as passwordMd5-->
+<!--             , name-->
+<!--             , status-->
+<!--             , role-->
+<!--             , register_time as registerTime-->
+<!--             , register_ip as registerIp-->
+<!--             , login_time as loginTime-->
+<!--             , login_ip as loginIp-->
+<!--    </sql>-->
+
+<!--    <select id="selectAll" resultType="User">-->
+<!--        select-->
+<!--        <include refid="user_column"/>   -->
+<!--        from user-->
+<!--    </select>-->
+
+<resultMap id="userResultMap" type="DatabaseUser">
+    <result column="phone_number" property="phoneNumber"/>
+    <result column="password_md5" property="passwordMd5"/>
+    <result column="register_time" property="registerTime"/>
+    <result column="register_ip" property="registerIp"/>
+    <result column="login_time" property="loginTime"/>
+    <result column="login_ip" property="loginIp"/>
+</resultMap>
+    <select id="selectAll" resultMap="userResultMap">
+        select * from user
+    </select>
+<!--    *参数占位符：-->
+<!--        1.#{}：会将其替换为？.为了防止SQL注入-->
+<!--        2.${}：拼sql。会存在SQL注入问题-->
+<!--        3.使用时机：-->
+<!--           *参数传递的时候：#{}-->
+<!--           *表名或者列名不固定的情况下:${} 会存在SQL注入问题-->
+<!--      *参数类型：parameterType：可以省略-->
+<!--      *特殊字符处理：-->
+<!--          1.转移字符 &lt-->
+<!--          2.CDATE区-->
+
+
+
+</mapper>

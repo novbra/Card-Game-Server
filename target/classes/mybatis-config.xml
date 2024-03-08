@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <!-- 开启驼峰命名转换 ：{name_id}  -> {nameId}    -->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <setting name="logImpl" value="STDOUT_LOGGING"/>
+    </settings>
+<!--    XML属性顺序有约束，不能随便乱移-->
+<!--    设置别名,类名也不区分大小写了-->
+    <typeAliases>
+        <package name="TcpSocket.bean"/>
+    </typeAliases>
+<!--    通过default 来改变环境-->
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+<!--                数据库连接信息-->
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://124.223.75.186:3306/mymo?useUnicode=true&amp;characterEncoding=utf-8&amp;useServerPrepStmts=true"/>
+                <property name="username" value="sa"/>
+                <property name="password" value="jibazhenda"/>
+            </dataSource>
+        </environment>
+
+        <environment id="test">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <!--                数据库连接信息-->
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://124.223.75.186/mymo?useUnicode=true&amp;characterEncoding=utf-8&amp;useServerPrepStmts=true"/>
+                <property name="username" value="sa"/>
+                <property name="password" value="jibazhenda"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+<!--        加载sql映射文件-->
+<!--        <mapper resource="TcpSocket/mapper/CurrenciesMapper.xml"/>-->
+<!--        Mapper代理模式-->
+        <package name="TcpSocket.mapper"/>
+    </mappers>
+</configuration>
